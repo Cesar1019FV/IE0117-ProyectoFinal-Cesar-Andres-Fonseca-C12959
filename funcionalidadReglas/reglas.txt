@@ -1,0 +1,35 @@
+OBJETIVO PRINCIPAL:
+Armar Un grupo de tres o cuatro cartas del mismo valor,ejemplo: 7♠ 7♦ 7♥.
+Armar una escalera de cartas, las cuales sean del mismo signo pero numeros consecutivos, ejemplo: 2♦ 3♦ 4♦ 5♦ 6♦.
+
+============================================================================================
+
+BARAJA:
+El gin se juega con una baraja inglesa de 52 cartas, sin comodines. Cada carta tiene un valor asociado:
+
+- Palos altos J, Q y K valen 10 puntos.
+- Ases valen 1 punto.
+- El resto, toman el número como valor.
+- Los ases pueden utilizarse para formar escaleras con los palos altos. Es decir que la combinación A♥ 2♥ 3♥ es válida, pero A♥ K♥ Q♥ también lo es.
+
+============================================================================================
+
+DESARROLLO:
+
+A todos los participantes se les reparten diez cartas, al final del reparto se saca la carta superior y se le da la vuelta, para que todos los jugadores la vean y comienza el juego.
+
+El siguiente jugador decide si tomar la carta al revés o no. En este caso, debes reemplazarla con otra carta de tu mazo (no la misma carta que tomaste). De lo contrario, puede obtener una carta oculta de la pila. Si la carta extraída no es de interés para el jugador, puede colocarla directamente en la pila de descarte.
+
+Cuando un jugador muestra sus cartas termina el juego parcial. Los oponentes también deben enseñar sus combinaciones, y si el juego finalizó en knock tienen la posibilidad de colocar las cartas sin aparear en las combinaciones del jugador que ha abatido (posibilidad que no tiene el jugador que hizo knock).
+
+Esta posibilidad es sólo la de colocar las cartas en las combinaciones expuestas por el jugador que finalizó, no de aprovechar sus cartas para hacer otras combinaciones. Por ejemplo, si el jugador que abatió tiene una escalera 5♦ 6♦ 7♦ y su oponente tiene los pares 6♥ 6♠ y 7♥ 7♠, no podrá tomar las cartas de la escalera para combinar sus parejas y formar tríos, que serían combinaciones válidas.
+
+============================================================================================
+
+KNOCK Y GIN:
+
+knock: significa terminar el juego sin terminar de ligar las diez cartas en tu mano. Para ello, es necesario que la suma de las restantes cartas no conectadas no supere los diez puntos.
+
+gin: consiste en hacer coincidir diez cartas de tu mano.
+
+============================================================================================
